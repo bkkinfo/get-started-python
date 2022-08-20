@@ -1,7 +1,9 @@
 """
 Hello World app for running Python apps on Bluemix
 """
+#adding some more comment
 
+#testing for git push
 # Always prefer setuptools over distutils
 from setuptools import setup, find_packages
 # To use a consistent encoding
